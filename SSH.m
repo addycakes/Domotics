@@ -3,7 +3,7 @@
 
 #define RPI_KEY @“******”
 #define RPI_IP @“***.***.**.***”
-#define RPI_PORT 22
+#define RPI_PORT ****
 #define RPI_USERNAME @“*****”
 #define RPI_HDD @"/media/usbhdd/%@"
 
