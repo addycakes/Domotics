@@ -3,7 +3,7 @@
 Home automation system for Raspberry Pi, Arduino and iOS.
 
 Communication
-* [SSH](https://github.com/addycakes/Domotics/wiki/SSH)
+* SSH
 * Push Notifications
 * Text Message/Email
 * REST
